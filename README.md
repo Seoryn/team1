@@ -1,4 +1,4 @@
-#BlockBusters
-##Introduction
-##How to install
-##How to play
+# BlockBusters
+## Introduction
+## How to install
+## How to play
